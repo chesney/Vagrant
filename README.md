@@ -34,6 +34,8 @@ Find the pid of the application and kill it:
 
 Run `vagrant up` again or in this repository's case, the `./execute.sh` file.
 
+To do custom networking configuration, ie. set a hostname for the VM, refer to [2]
+
 ## References
 1. https://github.com/ppggff/vagrant-qemu
-
+2. How to configure netwroking in vagrant - https://ostechnix.com/how-to-configure-networking-in-vagrant/
