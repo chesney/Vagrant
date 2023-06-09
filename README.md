@@ -28,7 +28,7 @@ Use the following command to check what application is running on this port:
 
   `lsof -i | grep LISTEN`
 
-Find the pod of the application and kill it:
+Find the pid of the application and kill it:
 
   `kill <pid>`
 
