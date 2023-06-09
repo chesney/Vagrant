@@ -34,6 +34,8 @@ Find the pid of the application and kill it:
 
 Run `vagrant up` again or in this repository's case, the `./execute.sh` file.
 
+## Networking Configuration
+
 To do custom networking configuration, ie. set a hostname for the VM, refer to [2]
 
 ## References
